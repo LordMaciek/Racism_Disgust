@@ -34,4 +34,15 @@ layout: default
 - Disgust evolved to avoid potential pathogens.
 - Therefore: we avoid human and animal remains, spoiled food, filthy animals and objects, etc.
 - Proposed explanation: People who look different, might by interpreted as possible bearers of strange diseases.
-- test
+- Landry et al., 2022 show the effect is mediated by dehumanization of a specific group.
+---
+
+# Where does the link come from?
+- Why a mechanism "designed" to avoid pathogens works against other people?
+- A "false alarm" hypothesis was proposed by Park et al. (2003) as one explanation
+- However it's not universal!
+---
+
+# Cultural associations
+- Historically, concepts of race in Poland were introduced via the Eugenics movement (Balogun, 2025)
+- The introduction was conceptualized in terms of 
