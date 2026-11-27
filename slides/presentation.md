@@ -48,14 +48,16 @@ layout: default
 - Historically, the idea of race in Poland is linked to two phenomena:
   - chronologically older is the serfdom system (e.g. Leszczyński, 2020)
   - more recent is the Eugenics movement (Balogun, 2025), which introduced Poland to scientific racism.
-- Justication of "pańsczyzna" was phrased in more religious terms, is referred to as "protorasizm" (e.g. Taradejna, 2024).
+- Justification of "pańsczyzna" was phrased in more religious terms, is referred to as "protorasizm" (e.g. Taradejna, 2024).
   - So it's not really useful for us
 - Eugenics, on the other hand, was the introduction of contemporary scientific racism to Poland.
 - It originated from racial justification of slavery in systemic discrimination based on "race".
 ---
 
 # Eugenics and disgust (Balogun, 2025)
+- Historically, Eugenics originated from notions of traditional racism, i.e. immutable biological differences between races.
 - The defining idea of eugenics is that it associates biological race with medicalized notions of health and disease.
+- Historically, Eugenics originated from notions of traditional racism, i.e. immutable biological differences between races.
 - It introduces a vocabulary of disease and contamination (good vs bad blood etc) and uses it to talk about people.
 - Thus constructing a link between Blackness and disease. And therefore: disgust.
 - Importantly, in Polish context, Eugenics targeted to a large extent Jewish people, and to a lesser extent Roma people.
@@ -83,7 +85,7 @@ layout: default
     <div class="box">Trait Disgust (sensitivity)</div>
   </foreignObject>
   <foreignObject x="420" y="170" width="170" height="80">
-    <div class="box">Anti-Black Prejudice</div>
+    <div class="box">Traditional Anti-Black Prejudice</div>
   </foreignObject>
   <foreignObject x="215" y="10"  width="170" height="80">
     <div class="box">Eugenics</div>
@@ -105,12 +107,23 @@ layout: default
 </style>
 ---
 
-# OK, but how does Eugenics work here?
-- Eugenics is a historical phenomenon, so we can't simple measure it by being a member of eugenics movement, or support for it.
+# OK, but how does Eugenics fit here?
+- Eugenics is a historical phenomenon, so we can't simple measure it by being a member of eugenics movement, or ask about support for it.
 - However, Balogun (2025, chapter 3) conceptualizes the effect of Eugenics movement in contemporary in terms of ideas and discourse.
-- Meaning that it could be tapped in on a group level, by linguistic analysis of discourse, and on individual level, by measuring the strength of associations between Blackness and disease, blood, impurity, contamination, etc.
+- Meaning that it could be tapped into on a group level, by linguistic analysis of discourse, and on individual level, by measuring the strength of associations between Blackness and disease, blood, impurity, contamination, etc.
 - This brings us to the key problem:
 ---
 
 # Interdisciplinary study:
-- To test the model, I need to leave the 
+- The proposed model is interdisciplinary: it combines perspectives and concepts from psychology, history and linguistics.
+- It requires cooperation between researchers representing different disciplines, and...
+- ... requires novel and/or unorthodox methods of data collection.
+---
+
+# But let's focus on the psychological aspect.
+## Key problem: Measuring, on individual level, to what extent one's thinking is influenced by Eugenics discourse.
+- Measuring trait disgust and traditional anti-Black racism is straightforward.
+- The first idea I had: use a procedure with priming and reaction times.
+- But this combined with moderation model, inflates the number of participants we need for reasonable statistical power.
+- To rephrase the problem in associative terms: When one thinks of Blackness, how readily does "disease" come to mind?
+---
